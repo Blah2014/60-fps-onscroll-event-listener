@@ -1,5 +1,7 @@
 # 60-fps-onscroll-event-listener
 
+[Polyfill requestAnimationFrame and cancelAnimationFrame](https://github.com/webdeveric/animation-frame-polyfill)
+
 ### Scroll Listener
 ```javascript
 (function() {
